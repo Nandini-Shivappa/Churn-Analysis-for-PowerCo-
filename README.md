@@ -34,5 +34,5 @@ This repository presents a comprehensive churn analysis of PowerCo, a utility se
 - Charges: Monthly Charges, Total Charges
 - Churn: Target variable indicating whether the customer has churned (Yes/No)
 
-  # How to run
-  (https://github.com/Nandini-Shivappa/Churn-Analysis-for-PowerCo-).
+# How to run
+(https://colab.research.google.com/drive/1VyGOveKnVObSrqNQQU0vcxXmP74oqwLY?usp=sharing)
